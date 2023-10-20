@@ -1,7 +1,7 @@
 
     import java.util.Scanner;
     import java.lang.Math;
-    public class Guessname {
+    public class Guessnumber {
       public static void main(String[] args) {
         int answer = (int)(Math.random() * 100) + 1;
         int k = 5;
